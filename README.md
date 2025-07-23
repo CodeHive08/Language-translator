@@ -10,9 +10,12 @@ A simple and elegant web-based language translator app built with HTML, CSS, and
 - Swap source and target languages instantly
 - Responsive and modern UI
 
-## Demo
+## Live Demo
+Watch the live preview here:https://language-translat0r.netlify.app/
 
-![Screenshot](screenshot.png)
+### Project Snapshots
+<img width="1920" height="846" alt="image" src="https://github.com/user-attachments/assets/f599375b-b992-4e4d-b30b-c2b1331668e4" />
+
 
 ## Getting Started
 
